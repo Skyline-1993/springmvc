@@ -163,7 +163,7 @@ public class TestController {
 
 ## 7、request请求
 
-![Springmvc请求](D:\MyCode\github\springmvc\result1.png)
+![Springmvc请求](result1.png)
 
 到这里，一个基于SpringMVC的基本web应用就完成了。
 
