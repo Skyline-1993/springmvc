@@ -55,7 +55,7 @@ protected void initStrategies(ApplicationContext context) {
 ```
 
 ### 2.3、SpringMVC处理http请求
-![springmvc处理http请求流程](springmvc.png)
+![springmvc处理http请求流程](readme-pic/springmvc.png)
 
 ## 3、web.xml配置
 
@@ -163,7 +163,7 @@ public class TestController {
 
 ## 7、request请求
 
-![Springmvc请求](result1.png)
+![Springmvc请求](readme-pic/result1.png)
 
 到这里，一个基于SpringMVC的基本web应用就完成了。
 
