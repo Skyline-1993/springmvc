@@ -163,6 +163,8 @@ public class TestController {
 
 ## 7、request请求
 
+将应用打包放到web容器中启动，浏览器中输入地址：http://localhost:8080/springmvc/login
+
 ![Springmvc请求](readme-pic/result1.png)
 
 到这里，一个基于SpringMVC的基本web应用就完成了。
