@@ -55,7 +55,7 @@ protected void initStrategies(ApplicationContext context) {
 ```
 
 ### 2.3、SpringMVC处理http请求
-![springmvc处理http请求流程](springmvc.jpg)
+![springmvc处理http请求流程](springmvc.png)
 
 ## 3、web.xml配置
 
